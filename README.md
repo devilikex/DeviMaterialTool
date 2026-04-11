@@ -32,6 +32,7 @@ the 1060_1060001_hair_02 to both those slots).
 Another thing this function does is rename a duplicate if they are supposed to be placed in two places. I've yet to see this in any other
 character than White fox, but there might be I guess. ( So if 1060_hair is supposed to go in 1060001/Materials AND VFX/Character/1060 the script will look for 
 duplicates/dummys and then rename them to match the original and then move them and of course assign them to the material slot). 
+For now the sorter and mover only move and assign the materials that belong to the current mesh. 
 
 
 ALSO: The Material Sorter require you to name your duplicates/dummys the same as the original material name with one of the following suffixes: 
