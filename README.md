@@ -43,6 +43,10 @@ ALSO: The Material Sorter require you to name your duplicates/dummys the same as
 Material Mover: 
 This function just moves materials. It works the same way the Material Sorter does, but it ONLY moves materials, it doesnt look for duplicates 
 or assign materials in the material slots. 
+Video Guide: 
+
+https://youtu.be/eiiatrPEP2E
+
 
 NOTE: 
 
