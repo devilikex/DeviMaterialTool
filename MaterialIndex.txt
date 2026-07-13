@@ -14436,3 +14436,59 @@
 
 [Mesh SK_4051_4051001]
   [0] Slot: MI_4051_4051001 | Mat: MI_4051001_Body_01 | Path: /Game/Marvel/Characters/GameMode/2206/4051/4051001/Materials/MI_4051001_Body_01
+
+[Mesh SK_1064_1064001]
+  [0] Slot: MI_1064001_Eyes_02 | Mat: MI_1064001_Eyes_02 | Path: /Game/Marvel/Characters/1064/1064001/Materials/MI_1064001_Eyes_02
+  [1] Slot: MI_1064001_Equip_03 | Mat: MI_1064001_Equip_02 | Path: /Game/Marvel/Characters/1064/1064001/Materials/MI_1064001_Equip_02
+  [2] Slot: MI_1064001_Hair_02 | Mat: MI_1064001_Hair_02 | Path: /Game/Marvel/Characters/1064/1064001/Materials/MI_1064001_Hair_02
+  [3] Slot: MI_1064001_Eyes_01 | Mat: MI_1064001_Eyes_01 | Path: /Game/Marvel/Characters/1064/1064001/Materials/MI_1064001_Eyes_01
+  [4] Slot: MI_1064001_Body | Mat: MI_1064001_Body | Path: /Game/Marvel/Characters/1064/1064001/Materials/MI_1064001_Body
+  [5] Slot: MI_1064001_Equip_03 | Mat: MI_1064001_Equip_03 | Path: /Game/Marvel/Characters/1064/1064001/Materials/MI_1064001_Equip_03
+  [6] Slot: MI_1064001_Equip_05 | Mat: MI_1064001_Equip_04 | Path: /Game/Marvel/Characters/1064/1064001/Materials/MI_1064001_Equip_04
+  [7] Slot: MI_1064001_Equip_04 | Mat: MI_1064001_Equip_01 | Path: /Game/Marvel/Characters/1064/1064001/Materials/MI_1064001_Equip_01
+  [8] Slot: MI_1064001_Equip_01 | Mat: MI_1064001_Equip_01 | Path: /Game/Marvel/Characters/1064/1064001/Materials/MI_1064001_Equip_01
+  [9] Slot: MI_1064001_Hair_01 | Mat: MI_1064001_Hair_01 | Path: /Game/Marvel/Characters/1064/1064001/Materials/MI_1064001_Hair_01
+  [10] Slot: MI_1064001_Head | Mat: MI_1064001_Head | Path: /Game/Marvel/Characters/1064/1064001/Materials/MI_1064001_Head
+
+[Mesh SK_1064_1064001_Lobby]
+  [0] Slot: MI_1064001_Eyes_02 | Mat: MI_1064001_Eyes_02 | Path: /Game/Marvel/Characters/1064/1064001/Materials/Lobby/MI_1064001_Eyes_02
+  [1] Slot: MI_1064001_Equip_03 | Mat: MI_1064001_Equip_02 | Path: /Game/Marvel/Characters/1064/1064001/Materials/Lobby/MI_1064001_Equip_02
+  [2] Slot: MI_1064001_Hair_02 | Mat: MI_1064001_Hair_02 | Path: /Game/Marvel/Characters/1064/1064001/Materials/Lobby/MI_1064001_Hair_02
+  [3] Slot: MI_1064001_Eyes_01 | Mat: MI_1064001_Eyes_01 | Path: /Game/Marvel/Characters/1064/1064001/Materials/Lobby/MI_1064001_Eyes_01
+  [4] Slot: MI_1064001_Body | Mat: MI_1064001_Body | Path: /Game/Marvel/Characters/1064/1064001/Materials/Lobby/MI_1064001_Body
+  [5] Slot: MI_1064001_Equip_02 | Mat: MI_1064001_Equip_03 | Path: /Game/Marvel/Characters/1064/1064001/Materials/Lobby/MI_1064001_Equip_03
+  [6] Slot: MI_1064001_Equip_05 | Mat: MI_1064001_Equip_05 | Path: /Game/Marvel/Characters/1064/1064001/Materials/Lobby/MI_1064001_Equip_05
+  [7] Slot: MI_1064001_Equip_04 | Mat: MI_1064001_Equip_01 | Path: /Game/Marvel/Characters/1064/1064001/Materials/Lobby/MI_1064001_Equip_01
+  [8] Slot: MI_1064001_Equip_01 | Mat: MI_1064001_Equip_01 | Path: /Game/Marvel/Characters/1064/1064001/Materials/Lobby/MI_1064001_Equip_01
+  [9] Slot: MI_1064001_Hair_01 | Mat: MI_1064001_Hair_01 | Path: /Game/Marvel/Characters/1064/1064001/Materials/Lobby/MI_1064001_Hair_01
+  [10] Slot: MI_1064001_Head | Mat: MI_1064001_Head | Path: /Game/Marvel/Characters/1064/1064001/Materials/Lobby/MI_1064001_Head
+  [11] Slot: MI_Rim | Mat: MI_1064001_Rim_HeroDetails | Path: /Game/Marvel/Characters/1064/1064001/Materials/Lobby/MI_1064001_Rim_HeroDetails
+
+[Mesh SK_1064_1064500]
+  [0] Slot: MI_1064500_Equip_02 | Mat: MI_1064500_Equip_02 | Path: /Game/Marvel/Characters/1064/1064500/Materials/MI_1064500_Equip_02
+  [1] Slot: MI_1064500_Equip_05 | Mat: MI_1064500_Equip_05 | Path: /Game/Marvel/Characters/1064/1064500/Materials/MI_1064500_Equip_05
+  [2] Slot: MI_1064500_Equip_01 | Mat: MI_1064500_Equip_01 | Path: /Game/Marvel/Characters/1064/1064500/Materials/MI_1064500_Equip_01
+  [3] Slot: MI_1064500_Equip_04 | Mat: MI_1064500_Equip_04 | Path: /Game/Marvel/Characters/1064/1064500/Materials/MI_1064500_Equip_04
+  [4] Slot: MI_1064500_Eyes_01 | Mat: MI_1064500_Eyes_01 | Path: /Game/Marvel/Characters/1064/1064500/Materials/MI_1064500_Eyes_01
+  [5] Slot: MI_1064500_Hair_02 | Mat: MI_1064500_Hair_02 | Path: /Game/Marvel/Characters/1064/1064500/Materials/MI_1064500_Hair_02
+  [6] Slot: MI_1064500_Body_01 | Mat: MI_1064500_Body | Path: /Game/Marvel/Characters/1064/1064500/Materials/MI_1064500_Body
+  [7] Slot: MI_1064500_Hair_01 | Mat: MI_1064500_Hair_01 | Path: /Game/Marvel/Characters/1064/1064500/Materials/MI_1064500_Hair_01
+  [8] Slot: MI_1064500_Eyes_02 | Mat: MI_1064500_Eyes_02 | Path: /Game/Marvel/Characters/1064/1064500/Materials/MI_1064500_Eyes_02
+  [9] Slot: MI_1064500_Equip_03 | Mat: MI_1064500_Equip_03 | Path: /Game/Marvel/Characters/1064/1064500/Materials/MI_1064500_Equip_03
+  [10] Slot: MI_1064500_Head | Mat: MI_1064500_Head | Path: /Game/Marvel/Characters/1064/1064500/Materials/MI_1064500_Head
+  [11] Slot: MI_1064500_Body_02 | Mat: MI_1064500_Body_01 | Path: /Game/Marvel/Characters/1064/1064500/Materials/MI_1064500_Body_01
+
+[Mesh SK_1064_1064500_Lobby]
+  [0] Slot: MI_1064500_Equip_02 | Mat: MI_1064500_Equip_02 | Path: /Game/Marvel/Characters/1064/1064500/Materials/Lobby/MI_1064500_Equip_02
+  [1] Slot: MI_1064500_Equip_05 | Mat: MI_1064500_Equip_05 | Path: /Game/Marvel/Characters/1064/1064500/Materials/Lobby/MI_1064500_Equip_05
+  [2] Slot: MI_1064500_Equip_01 | Mat: MI_1064500_Equip_01 | Path: /Game/Marvel/Characters/1064/1064500/Materials/Lobby/MI_1064500_Equip_01
+  [3] Slot: MI_1064500_Equip_04 | Mat: MI_1064500_Equip_04 | Path: /Game/Marvel/Characters/1064/1064500/Materials/Lobby/MI_1064500_Equip_04
+  [4] Slot: MI_1064500_Eyes_01 | Mat: MI_1064500_Eyes_01 | Path: /Game/Marvel/Characters/1064/1064500/Materials/Lobby/MI_1064500_Eyes_01
+  [5] Slot: MI_1064500_Hair_02 | Mat: MI_1064500_Hair_02 | Path: /Game/Marvel/Characters/1064/1064500/Materials/Lobby/MI_1064500_Hair_02
+  [6] Slot: MI_1064500_Body_01 | Mat: MI_1064500_Body | Path: /Game/Marvel/Characters/1064/1064500/Materials/Lobby/MI_1064500_Body
+  [7] Slot: MI_1064500_Hair_01 | Mat: MI_1064500_Hair_01 | Path: /Game/Marvel/Characters/1064/1064500/Materials/Lobby/MI_1064500_Hair_01
+  [8] Slot: MI_1064500_Eyes_02 | Mat: MI_1064500_Eyes_02 | Path: /Game/Marvel/Characters/1064/1064500/Materials/Lobby/MI_1064500_Eyes_02
+  [9] Slot: MI_1064500_Equip_03 | Mat: MI_1064500_Equip_03 | Path: /Game/Marvel/Characters/1064/1064500/Materials/Lobby/MI_1064500_Equip_03
+  [10] Slot: MI_1064500_Head | Mat: MI_1064500_Head | Path: /Game/Marvel/Characters/1064/1064500/Materials/Lobby/MI_1064500_Head
+  [11] Slot: MI_1064500_Body_02 | Mat: MI_1064500_Body_01 | Path: /Game/Marvel/Characters/1064/1064500/Materials/Lobby/MI_1064500_Body_01
+  [12] Slot: MI_Rim | Mat: MI_1064500_Rim_HeroDetails | Path: /Game/Marvel/Characters/1064/1064500/Materials/Lobby/MI_1064500_Rim_HeroDetails
