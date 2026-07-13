@@ -41,8 +41,8 @@ ALSO: The Material Sorter require you to name your duplicates/dummys the same as
 [Example: 1060_1060001_Hair_02 - 1060_1060001_Hair_022 - 1060_1060001_Hair_0222 ]
 
 Material Mover: 
-This function just moves materials. It works the same way the Material Sorter does, but it ONLY moves materials, it doesnt look for duplicates 
-or assign materials in the material slots. 
+This function now moves all of your extra materials to their correct folder paths as long as you put them inside the import folder. Meaning that if you are modding SK_1060_1060001 and hade added the MI_1048_1048001_Hair, you can simply put that into your importedmaterials folder along with the rest of the materials and use the material mover to automatically move it to its 1048 path. 
+
 Video Guide: 
 
 https://youtu.be/eiiatrPEP2E
