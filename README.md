@@ -14,16 +14,17 @@ Place all your materials into /Content/Marvel/ImportedMaterials (you dont need t
 Run the Tool: Click the DeviTools Icon in your toolbar and wait for the widget to appear. 
 Select your Skeletal Mesh and click the buttons you want to use. 
 
+As of version 1.2 the best way to use the tool is in order. Simply use them in descending order 1 - 2 - 3. 
 
 USAGE: 
 
-Slot Name Updater: 
+1 - Slot Name Updater: 
 It updates the slot names of your skeletalmesh. 
 This requires you to have fixed your material order in blender, if it is incorrect the plugin will only change the names it can detect. 
 So like always, make sure to keep your characters OG materials at the start of the material list. 
 This also means that it will change the material SLOTNAME of any custom/extra materials in your list if your material list is not a copy of the original one. 
 
-Material Sorter: 
+2 - Material Sorter: 
 This function moves your materials from the ImportedMaterials folder into their respective correct folder path (for example: 1060/1060001/Materials/Lobby).
 This function also looks for duplicates/dummy materials you might have used in blender to keep a slot open for a material. 
 (for example: slot 1 and 6 both use 1060_1060001_hair_02. So you named your slot 6 material 1060_1060001_hair_022, this function will then assign 
@@ -40,7 +41,7 @@ ALSO: The Material Sorter require you to name your duplicates/dummys the same as
 
 [Example: 1060_1060001_Hair_02 - 1060_1060001_Hair_022 - 1060_1060001_Hair_0222 ]
 
-Material Mover: 
+3 - Material Mover: 
 This function now moves all of your extra materials to their correct folder paths as long as you put them inside the import folder. Meaning that if you are modding SK_1060_1060001 and hade added the MI_1048_1048001_Hair, you can simply put that into your importedmaterials folder along with the rest of the materials and use the material mover to automatically move it to its 1048 path. 
 
 Video Guide: 
